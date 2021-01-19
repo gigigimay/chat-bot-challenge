@@ -31,4 +31,4 @@ As a registered user, I want to see chart of income-expense so that I will be ab
 * If other libraries needed, feel free to use it. Please note that if those libraries seem unnecessary, points will be **deducted**
 
 
-Created By [Kittipong Srikittichai](github.com/Deathsy), @ AppMan Co.,Ltd
+<sub><sub>Created By [Kittipong Srikittichai](github.com/Deathsy), @ AppMan Co.,Ltd</sub></sub>
